@@ -1,6 +1,6 @@
 //there are total 95 characters generating keys i.e (fired by keypress event) 32 to 126
 
-let unicode = [
+let preeti = [
   '\u0020',   // SPACE
   '\u0021',   // ! -> !
   '\u0953',   // ' -> '
@@ -98,7 +98,7 @@ let unicode = [
   '\u093C'    // ~ -> ़
 ];
 
-let preeti = [
+let unicode = [
   '\u0020', // [space]
   '\u091C' + '\u094D' + '\u091E', // ! -> ज्ञ
   '\u0942', // " -> ू
